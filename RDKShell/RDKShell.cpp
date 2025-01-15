@@ -404,7 +404,7 @@ namespace WPEFramework {
                 // Terminations
                 {},
                 // Controls
-                {subsystem::GRAPHICS}
+                {}
             );
         }
 
